@@ -340,6 +340,6 @@ makeUCSCfile homer/USF2_tags \
 
 ```
 
-![Workflow diagram](images/heatmap.png)
+![Workflow diagram](images/USF2_heatmap)
 
 ![Workflow diagram](images/igv.png)
